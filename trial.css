@@ -1,0 +1,52 @@
+.products li img {
+    width: 100%;
+    object-fit: cover;
+    align-items: lastbaseline;
+
+
+    .products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 20px;
+    align-items: center;
+}
+
+.products li {
+    width: 200px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+
+}
+
+.products li h3 {
+    margin: 10px 0;
+    text-align: center;
+}
+
+.products li p {
+    margin: 0 10px;
+}
+
+.products li span.price {
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.products li button {
+    display: block;
+    width: 100%;
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+}
+.products
+.cart {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+}

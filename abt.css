@@ -1,0 +1,19 @@
+h2{
+	color: green;
+	font-size: 2rem;
+}
+body{
+	font-size: 1rem;
+	background: url(E:\work\dynamic notes\course project\img\IMG-20240326-WA0101.jpg);
+	background-repeat: no-repeat;
+	background-position: centre;
+	background-size: cover;
+	.background{
+		opacity: 0.1  ;
+	}
+
+}
+h3{
+	color: green;
+	font-size: 2;
+}
